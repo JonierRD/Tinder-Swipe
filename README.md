@@ -1,4 +1,4 @@
-# 💘 Tinder Swipe
+# Tinder Swipe
 
 Proyecto inspirado en la interfaz y animaciones del popular Tinder, creado con HTML, CSS y JavaScript.  
 El objetivo es simular el efecto de "swipe" (deslizar) entre tarjetas de usuarios, con animaciones fluidas y una interfaz moderna.
